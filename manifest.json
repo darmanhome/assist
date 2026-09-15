@@ -1,15 +1,15 @@
 {
-  "name": "دستیار درمانگر",
-  "short_name": "دستیار درمانگر",
+  "name": "توان‌گر، دستیار درمانگر",
+  "short_name": "توان‌گر",
   "description": "ابزار کمکی برای پشتیبانی از قضاوت بالینی درمانگران در حیطه فیزیوتراپی، کاردرمانی و توان‌بخشی نورولوژیک",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f8fafc",
-  "theme_color": "#0f766e",
-  "dir": "rtl",
   "lang": "fa",
+  "dir": "rtl",
+  "background_color": "#0f766e",
+  "theme_color": "#0f766e",
   "icons": [
     {
       "src": "icon-192.png",
@@ -24,7 +24,7 @@
       "purpose": "any"
     },
     {
-      "src": "icon-maskable-512.png",
+      "src": "icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
